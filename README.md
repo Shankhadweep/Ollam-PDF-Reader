@@ -1,6 +1,6 @@
 # Chat with PDF locally with Ollama 🚀
 
-This is a demo (accompanying the YouTube tutorial below) Jupyter Notebook showcasing a simple local RAG (Retrieval Augmented Generation) pipeline for chatting with PDFs.
+This is a demo Jupyter Notebook showcasing a simple local RAG (Retrieval Augmented Generation) pipeline for chatting with PDFs.
 
 ## Running the Streamlit application
 
